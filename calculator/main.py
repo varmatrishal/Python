@@ -1,5 +1,5 @@
 print("Welcome to Trishal's Calculator Application")
-print('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
+#modification made November 2nd 2021
 
 
 # Returns the sum of the sum
