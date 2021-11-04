@@ -1,6 +1,8 @@
-# Python
+# Python # 
 
-Contains the Head First Python book in the book directory
-also contains the calculator app 
+### *This directory contains personal projects in python language along with a few other. *
 
-More personal projects will be uploaded. 
+> Book has been added to the directory. You will find Head First Python in pdf format. 
+> Simple calculator app as a personal project has been added. 
+
+### This directory is a work in progress
